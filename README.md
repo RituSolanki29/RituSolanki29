@@ -76,9 +76,9 @@ I believe great software is not just functional — it is **intuitive, maintaina
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riya-solanki&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riya-solanki&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-solanki&theme=tokyonight&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RituSolanki29&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RituSolanki29&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RituSolanki29&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
