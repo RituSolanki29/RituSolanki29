@@ -121,13 +121,6 @@ I aim to work on **product-based systems** where engineering decisions impact us
 
 ---
 
-## Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RituSolanki29&theme=tokyo-night&hide_border=true)
-
----
-
----
-
 ##  Developer Insight
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
