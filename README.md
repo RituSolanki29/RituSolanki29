@@ -89,6 +89,10 @@ I believe great software is not just functional — it is **intuitive, maintaina
 
 ---
 
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RituSolanki29&theme=tokyo-night&hide_border=true)
+
 ## 💡 Developer Insight
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
