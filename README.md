@@ -1,85 +1,117 @@
-# 🌟 Ritu Solanki
+<h1 align="center">Hi 👋, I'm Ritu Solanki</h1>
 
-### 👩‍💻 Full-Stack Web Developer | 🎓 B.Tech Student | 🚀 Tech Enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Product-Focused+Engineer;System+Design+Enthusiast;Building+Scalable+Applications" />
+</p>
 
-I am a passionate developer focused on building **scalable, user-centric, and well-architected web applications**.  
-My work combines **clean code, thoughtful UI/UX, and efficient backend systems** to deliver meaningful digital solutions.
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://your-resume-link.com">
+    <img src="https://img.shields.io/badge/Resume-%23FF5722.svg?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  </a>
+</p>
 
-I believe great software is not just functional — it is **intuitive, maintainable, and impactful**.
+---
+
+## 👩‍💻 About Me
+I build **scalable, reliable, and user-centric products** that solve real-world problems.  
+Focused on **system design, backend engineering, and performance optimization**.
+
+I aim to work on **product-based systems** where engineering decisions impact users at scale.
+
+---
+
+## 🎯 Interests
+- Product-based development  
+- Scalable system design  
+- Backend engineering & APIs  
+- Performance optimization  
 
 ---
 
 ## 🛠️ What I Do
-- 🌐 Build **responsive and accessible web interfaces**
-- ⚙️ Develop **end-to-end full-stack applications**
-- 🗄️ Design and manage **databases & RESTful APIs**
-- 🎨 Improve **UI/UX consistency, performance, and usability**
+- 🌐 Build **high-performance web applications**
+- ⚙️ Develop **scalable backend systems**
+- 🗄️ Design **optimized databases**
+- 🚀 Focus on **clean & maintainable architecture**
 
 ---
 
 ## 📚 Currently Exploring
-- Advanced **frontend engineering (React & performance optimization)**
-- **Backend architecture** and API design
-- Database modeling and optimization
-- Deployment pipelines, DevOps basics, and cloud platforms
+- Advanced **React & frontend performance**
+- **System Design & Backend Architecture**
+- **Cloud & DevOps (AWS, Docker, Kubernetes)**
+- Database scaling  
 
 ---
 
-## 🤝 Open to Collaborate On
-- Full-stack and frontend development projects  
-- UI/UX redesigns and performance-focused improvements  
-- Hackathons, student-led research, and open-source initiatives  
-- Real-world applications with measurable impact  
+## 🧠 System Design Focus
+- API design & scalability  
+- Distributed systems basics  
+- Caching & optimization  
+- Load balancing  
 
 ---
 
-## ✨ A Few Things About Me
-- I enjoy converting **complex ideas into simple, clean interfaces**
-- I like projects that balance **logic, design, and usability**
-- I am disciplined, curious, and always eager to learn new technologies  
+## 🚀 Featured Projects
 
-⭐ *Driven by consistency, creativity, and a passion for building meaningful technology.*
+### 🔹 Event Management System
+- Full-stack platform for managing college events  
+- Features: QR-based registration, dashboard, event management  
+- Tech: React, Flask, MySQL  
+
+### 🔹 Safety Android Application
+- Android app focused on **user safety & emergency response**
+- Features: real-time alerts, emergency contact system  
+- Focus on **reliability and real-time communication**
+
+### 🔹 Cloud-Based AI Compiler
+- Cloud-integrated compiler system with AI assistance  
+- Supports code processing, optimization & execution  
+- Focus on **scalability and intelligent code handling**
 
 ---
 
 ## 💻 Tech Stack
 
-### 👩‍💻 Programming Languages
+### 👩‍💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-
-### 🌐 Web & Frameworks
+### 🌐 Web
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🛢️ Databases & Infrastructure
+### 🛢️ Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧰 Tools & Platforms
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
-
-### ⚙️ DevOps Tools
+### ⚙️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🔁 Version Control
+### 🔁 Tools
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🏆 Achievements
+- 🚀 Built multiple full-stack and system-based projects  
+- 💡 Strong focus on **problem-solving and clean architecture**  
+- 📈 Consistent contributor on GitHub  
+
+---
 
 ## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RituSolanki29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RituSolanki29&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
@@ -90,12 +122,14 @@ I believe great software is not just functional — it is **intuitive, maintaina
 ---
 
 ## 📈 Contribution Graph
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RituSolanki29&theme=tokyo-night&hide_border=true)
 
-## 💡 Developer Insight
+---
+
+---
+
+##  Developer Insight
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Riya-solanki&icon=3&color=6)
