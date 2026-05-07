@@ -2,6 +2,7 @@
   
 <h1 align="center">Hello, I'm Ritu Solanki</h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Product-Focused+Engineer;System+Design+Enthusiast;Building+Scalable+Applications" />
 </p>
